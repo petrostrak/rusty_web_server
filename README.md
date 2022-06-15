@@ -1,0 +1,2 @@
+### A Rusty web server
+This is a web server written in Rust and is based on the [Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html) from the book.
